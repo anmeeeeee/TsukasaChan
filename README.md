@@ -1,2 +1,2 @@
-# TsukasaChan
+# TsukasaChan Bot Discord
 None
