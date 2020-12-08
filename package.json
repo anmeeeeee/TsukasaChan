@@ -1,0 +1,25 @@
+{
+  "name": "TsukasaChan",
+  "version: "1.0.10",
+  "description: "simple bot discord",
+  "main": "src/index.js",
+    "scripts": {
+    "start": "node dist",
+    "build": "rimraf dist && tsc"
+  },
+    "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "ascii-table": "0.0.9",
+    "discord-player": "^3.0.3",
+    "ffmpeg-static": "^4.2.7",
+    "ytdl-core": "^4.0.6"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/anmeeeeee/TsukasaChan"
+  },
+  "license": "MIT",
+  "keywords": []
+}
